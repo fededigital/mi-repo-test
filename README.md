@@ -1,2 +1,2 @@
-# mi-repo-test
-repositorio de prueba
+# Mi-repo-test
+Repositorio de prueba
